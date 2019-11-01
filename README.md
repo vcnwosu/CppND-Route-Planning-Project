@@ -4,6 +4,16 @@ This repo contains the starter code for the Route Planning project.
 
 <img src="map.png" width="600" height="450" />
 
+## Running
+
+After cloning and building, as described below, you can run from within the `build` directory as such:
+
+```
+./OSM_A_Star_Search -f ../map.osm
+```
+
+Follow the prompts and that's it.
+
 ## Cloning
 
 When cloning this project, be sure to use the `--recurse-submodules` flag. Using HTTPS:
